@@ -1,0 +1,15 @@
+# Ignore large or sensitive folders
+dataset/
+detr-ultrasound/
+figures/*
+!figures/sample_result.png
+
+# Ignore Jupyter outputs
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.idea/
