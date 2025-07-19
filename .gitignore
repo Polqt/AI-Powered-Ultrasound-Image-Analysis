@@ -1,2 +1,1 @@
-detr-ultrasound/checkpoint-25/*.pt
-detr-ultrasound/checkpoint-25/*.safetensors
+detr-ultrasound/
