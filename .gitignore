@@ -1,2 +1,2 @@
-# Ignore large model checkpoints
-detr-ultrasound/
+detr-ultrasound/checkpoint-25/*.pt
+detr-ultrasound/checkpoint-25/*.safetensors
