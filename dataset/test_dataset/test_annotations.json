@@ -1,0 +1,122 @@
+[
+{
+        "label": "abdomen",
+        "bbox": [
+            128,
+            107,
+            351,
+            332
+        ],
+        "image_filename": "patient030_DZA_plane0.png"
+    },
+    {
+        "label": "brain",
+        "bbox": [
+            135,
+            111,
+            388,
+            332
+        ],
+        "image_filename": "patient030_DZA_plane1.png"
+    },
+    {
+        "label": "femur",
+        "bbox": [
+            99,
+            125,
+            367,
+            190
+        ],
+        "image_filename": "patient030_DZA_plane2.png"
+    },
+    {
+        "label": "thorax",
+        "bbox": [
+            160,
+            118,
+            370,
+            299
+        ],
+        "image_filename": "patient030_DZA_plane3.png"
+    },
+    {
+        "label": "abdomen",
+        "bbox": [
+            98,
+            126,
+            316,
+            302
+        ],
+        "image_filename": "patient031_DZA_plane0.png"
+    },
+    {
+        "label": "brain",
+        "bbox": [
+            110,
+            117,
+            347,
+            283
+        ],
+        "image_filename": "patient031_DZA_plane1.png"
+    },
+    {
+        "label": "femur",
+        "bbox": [
+            161,
+            147,
+            359,
+            188
+        ],
+        "image_filename": "patient031_DZA_plane2.png"
+    },
+    {
+        "label": "thorax",
+        "bbox": [
+            186,
+            140,
+            395,
+            277
+        ],
+        "image_filename": "patient031_DZA_plane3.png"
+    },
+    {
+        "label": "abdomen",
+        "bbox": [
+            186,
+            115,
+            389,
+            354
+        ],
+        "image_filename": "patient033_DZA_plane0.png"
+    },
+    {
+        "label": "brain",
+        "bbox": [
+            140,
+            128,
+            416,
+            373
+        ],
+        "image_filename": "patient033_DZA_plane1.png"
+    },
+    {
+        "label": "femur",
+        "bbox": [
+            180,
+            95,
+            359,
+            220
+        ],
+        "image_filename": "patient033_DZA_plane2.png"
+    },
+    {
+        "label": "thorax",
+        "bbox": [
+            244,
+            118,
+            381,
+            266
+        ],
+        "image_filename": "patient033_DZA_plane3.png"
+    }
+]

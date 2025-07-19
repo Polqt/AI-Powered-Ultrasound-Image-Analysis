@@ -1,0 +1,402 @@
+[
+    {
+        "label": "abdomen",
+        "bbox": [
+            245,
+            118,
+            445,
+            306
+        ],
+        "image_filename": "patient001_DZA_plane0.png"
+    },
+    {
+        "label": "brain",
+        "bbox": [
+            102,
+            119,
+            335,
+            300
+        ],
+        "image_filename": "patient001_DZA_plane1.png"
+    },
+    {
+        "label": "femur",
+        "bbox": [
+            156,
+            200,
+            305,
+            245
+        ],
+        "image_filename": "patient001_DZA_plane2.png"
+    },
+    {
+        "label": "thorax",
+        "bbox": [
+            226,
+            116,
+            413,
+            287
+        ],
+        "image_filename": "patient001_DZA_plane3.png"
+    },
+    {
+        "label": "abdomen",
+        "bbox": [
+            113,
+            127,
+            296,
+            308
+        ],
+        "image_filename": "patient004_DZA_plane0.png"
+    },
+    {
+        "label": "brain",
+        "bbox": [
+            111,
+            108,
+            336,
+            297
+        ],
+        "image_filename": "patient004_DZA_plane1.png"
+    },
+    {
+        "label": "femur",
+        "bbox": [
+            167,
+            146,
+            357,
+            186
+        ],
+        "image_filename": "patient004_DZA_plane2.png"
+    },
+    {
+        "label": "thorax",
+        "bbox": [
+            196,
+            126,
+            387,
+            296
+        ],
+        "image_filename": "patient004_DZA_plane3.png"
+    },
+    {
+        "label": "abdomen",
+        "bbox": [
+            117,
+            87,
+            331,
+            326
+        ],
+        "image_filename": "patient007_DZA_plane0.png"
+    },
+    {
+        "label": "brain",
+        "bbox": [
+            121,
+            84,
+            378,
+            305
+        ],
+        "image_filename": "patient007_DZA_plane1.png"
+    },
+    {
+        "label": "femur",
+        "bbox": [
+            113,
+            118,
+            408,
+            197
+        ],
+        "image_filename": "patient007_DZA_plane2.png"
+    },
+    {
+        "label": "thorax",
+        "bbox": [
+            126,
+            86,
+            296,
+            278
+        ],
+        "image_filename": "patient007_DZA_plane3.png"
+    },
+    {
+        "label": "abdomen",
+        "bbox": [
+            121,
+            149,
+            321,
+            340
+        ],
+        "image_filename": "patient012_DZA_plane0.png"
+    },
+    {
+        "label": "brain",
+        "bbox": [
+            131,
+            88,
+            360,
+            265
+        ],
+        "image_filename": "patient012_DZA_plane1.png"
+    },
+    {
+        "label": "femur",
+        "bbox": [
+            11,
+            213,
+            328,
+            298
+        ],
+        "image_filename": "patient012_DZA_plane2.png"
+    },
+    {
+        "label": "thorax",
+        "bbox": [
+            108,
+            190,
+            288,
+            366
+        ],
+        "image_filename": "patient012_DZA_plane3.png"
+    },
+{
+        "label": "abdomen",
+        "bbox": [
+            233,
+            128,
+            420,
+            342
+        ],
+        "image_filename": "patient014_DZA_plane0.png"
+    },
+    {
+        "label": "brain",
+        "bbox": [
+            166,
+            122,
+            389,
+            323
+        ],
+        "image_filename": "patient014_DZA_plane1.png"
+    },
+    {
+        "label": "femur",
+        "bbox": [
+            50,
+            144,
+            345,
+            256
+        ],
+        "image_filename": "patient014_DZA_plane2.png"
+    },
+    {
+        "label": "thorax",
+        "bbox": [
+            238,
+            116,
+            395,
+            311
+        ],
+        "image_filename": "patient014_DZA_plane3.png"
+    },
+    {
+        "label": "abdomen",
+        "bbox": [
+            162,
+            153,
+            390,
+            371
+        ],
+        "image_filename": "patient016_DZA_plane0.png"
+    },
+    {
+        "label": "brain",
+        "bbox": [
+            127,
+            91,
+            371,
+            325
+        ],
+        "image_filename": "patient016_DZA_plane1.png"
+    },
+    {
+        "label": "femur",
+        "bbox": [
+            149,
+            184,
+            372,
+            232
+        ],
+        "image_filename": "patient016_DZA_plane2.png"
+    },
+    {
+        "label": "thorax",
+        "bbox": [
+            139,
+            146,
+            315,
+            301
+        ],
+        "image_filename": "patient016_DZA_plane3.png"
+    },
+    {
+        "label": "abdomen",
+        "bbox": [
+            155,
+            150,
+            320,
+            327
+        ],
+        "image_filename": "patient018_DZA_plane0.png"
+    },
+    {
+        "label": "brain",
+        "bbox": [
+            169,
+            82,
+            421,
+            272
+        ],
+        "image_filename": "patient018_DZA_plane1.png"
+    },
+    {
+        "label": "femur",
+        "bbox": [
+            110,
+            136,
+            340,
+            222
+        ],
+        "image_filename": "patient018_DZA_plane2.png"
+    },
+    {
+        "label": "thorax",
+        "bbox": [
+            141,
+            167,
+            320,
+            321
+        ],
+        "image_filename": "patient018_DZA_plane3.png"
+    },
+    {
+        "label": "abdomen",
+        "bbox": [
+            169,
+            87,
+            371,
+            316
+        ],
+        "image_filename": "patient023_DZA_plane0.png"
+    },
+    {
+        "label": "brain",
+        "bbox": [
+            131,
+            116,
+            379,
+            320
+        ],
+        "image_filename": "patient023_DZA_plane1.png"
+    },
+    {
+        "label": "femur",
+        "bbox": [
+            110,
+            88,
+            411,
+            210
+        ],
+        "image_filename": "patient023_DZA_plane2.png"
+    },
+    {
+        "label": "thorax",
+        "bbox": [
+            159,
+            70,
+            353,
+            264
+        ],
+        "image_filename": "patient023_DZA_plane3.png"
+    },
+    {
+        "label": "abdomen",
+        "bbox": [
+            160,
+            123,
+            355,
+            303
+        ],
+        "image_filename": "patient024_DZA_plane0.png"
+    },
+    {
+        "label": "brain",
+        "bbox": [
+            110,
+            108,
+            364,
+            305
+        ],
+        "image_filename": "patient024_DZA_plane1.png"
+    },
+    {
+        "label": "femur",
+        "bbox": [
+            147,
+            172,
+            396,
+            306
+        ],
+        "image_filename": "patient024_DZA_plane2.png"
+    },
+    {
+        "label": "thorax",
+        "bbox": [
+            185,
+            134,
+            372,
+            301
+        ],
+        "image_filename": "patient024_DZA_plane3.png"
+    },
+    {
+        "label": "abdomen",
+        "bbox": [
+            93,
+            78,
+            347,
+            318
+        ],
+        "image_filename": "patient027_DZA_plane0.png"
+    },
+    {
+        "label": "brain",
+        "bbox": [
+            155,
+            88,
+            369,
+            278
+        ],
+        "image_filename": "patient027_DZA_plane1.png"
+    },
+    {
+        "label": "femur",
+        "bbox": [
+            125,
+            189,
+            260,
+            284
+        ],
+        "image_filename": "patient027_DZA_plane2.png"
+    },
+    {
+        "label": "thorax",
+        "bbox": [
+            183,
+            93,
+            411,
+            306
+        ],
+        "image_filename": "patient027_DZA_plane3.png"
+    }
+]
